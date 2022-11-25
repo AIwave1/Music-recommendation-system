@@ -1,0 +1,132 @@
+[25-Nov-2022 02:28:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:29:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:29:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:29:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:29:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:29:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 16
+[25-Nov-2022 02:29:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 18
+[25-Nov-2022 02:29:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 20
+[25-Nov-2022 02:29:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 24
+[25-Nov-2022 02:29:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:30:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:30:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 16
+[25-Nov-2022 02:30:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 18
+[25-Nov-2022 02:30:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 20
+[25-Nov-2022 02:30:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 24
+[25-Nov-2022 02:30:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:30:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:30:28 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 16
+[25-Nov-2022 02:30:28 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 18
+[25-Nov-2022 02:30:28 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 20
+[25-Nov-2022 02:30:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 24
+[25-Nov-2022 02:30:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:30:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:30:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 16
+[25-Nov-2022 02:30:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 18
+[25-Nov-2022 02:30:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 20
+[25-Nov-2022 02:30:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praja431/public_html/har/registration.php on line 24
+[25-Nov-2022 02:30:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'praja431_harshit'@'localhost' (using password: YES) in /home/praja431/public_html/har/db.php on line 4
+[25-Nov-2022 02:32:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:32:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:32:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 26
+[25-Nov-2022 02:33:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:33:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:33:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 26
+[25-Nov-2022 02:34:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:34:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 26
+[25-Nov-2022 02:34:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:34:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:34:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 26
+[25-Nov-2022 02:34:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:34:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:35:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:37:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:37:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 26
+[25-Nov-2022 02:37:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/praja431/public_html/har/login.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praja431/public_html/har/login.php on line 27
+[25-Nov-2022 02:38:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/praja431/public_html/har/login.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/praja431/public_html/har/login.php on line 26
+[25-Nov-2022 02:38:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:38:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/praja431/public_html/har/login.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/praja431/public_html/har/login.php on line 26
+[25-Nov-2022 02:40:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:40:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:40:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 27
+[25-Nov-2022 02:42:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:42:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:42:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 27
+[25-Nov-2022 02:43:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:43:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:43:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 27
+[25-Nov-2022 02:44:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:44:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:44:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 27
+[25-Nov-2022 02:46:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:46:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:46:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 27
+[25-Nov-2022 02:47:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/auth_session.php on line 2
+[25-Nov-2022 02:47:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/auth_session.php on line 4
+[25-Nov-2022 02:47:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/auth_session.php on line 2
+[25-Nov-2022 02:47:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/auth_session.php on line 4
+[25-Nov-2022 02:47:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:47:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/auth_session.php on line 2
+[25-Nov-2022 02:47:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/auth_session.php on line 4
+[25-Nov-2022 02:47:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:47:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/auth_session.php on line 2
+[25-Nov-2022 02:47:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/auth_session.php on line 4
+[25-Nov-2022 02:47:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:50:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:50:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 02:50:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:50:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:50:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 02:53:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/praja431/public_html/har/login.php on line 29
+[25-Nov-2022 02:54:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:54:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:54:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 29
+[25-Nov-2022 02:54:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:54:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:54:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 29
+[25-Nov-2022 02:55:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:55:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:55:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 02:58:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:58:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:58:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 02:59:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:59:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 02:59:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:01:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:01:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:01:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:01:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:01:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:04:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:04:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:04:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:07:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:07:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:07:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:09:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:09:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:09:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:09:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:10:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:10:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:10:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:10:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:10:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:10:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:10:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
+[25-Nov-2022 03:11:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:11:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/praja431/public_html/har/login.php on line 11
+[25-Nov-2022 03:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/praja431/public_html/har/login.php:1) in /home/praja431/public_html/har/login.php on line 28
