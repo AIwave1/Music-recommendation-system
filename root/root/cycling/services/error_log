@@ -1,6 +1,0 @@
-[23-Nov-2022 18:04:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/praja431/public_html/cycling/services/get_race_entry.php on line 11
-[23-Nov-2022 18:04:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/praja431/public_html/cycling/services/get_race_entry.php on line 11
-[23-Nov-2022 18:04:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/praja431/public_html/cycling/services/get_race_entry.php on line 11
-[23-Nov-2022 18:06:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/praja431/public_html/cycling/services/get_race_entry.php on line 11
-[23-Nov-2022 18:13:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/praja431/public_html/cycling/services/get_race_entry.php on line 11
-[23-Nov-2022 18:14:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/praja431/public_html/cycling/services/get_race_entry.php on line 11
